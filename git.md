@@ -21,9 +21,11 @@ git:分布式,git更安全，人手一台服务器
 		
 		然后 git clone git地址								克隆远程仓库
 		
+		然后 cd 到当前目录
+		
 		然后	 git add  文件名称  (添加所有 git add .)
 		
-		然后 git commit -m '说明';							将本地的文件提交到暂存区
+		然后 git commit -m '说明'							将本地的文件提交到暂存区
 		
 		然后 git push 上传									如果是第一次push(上传),需要登陆
 		
